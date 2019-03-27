@@ -1,0 +1,6 @@
+C:\Users\admin\source\repos\PW13\PW13\obj\Debug\PW13.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\PW13\PW13\bin\Debug\PW13.exe.config
+C:\Users\admin\source\repos\PW13\PW13\bin\Debug\PW13.exe
+C:\Users\admin\source\repos\PW13\PW13\bin\Debug\PW13.pdb
+C:\Users\admin\source\repos\PW13\PW13\obj\Debug\PW13.exe
+C:\Users\admin\source\repos\PW13\PW13\obj\Debug\PW13.pdb
